@@ -18,3 +18,9 @@ java -jar --module-path /opt/javafx-sdk-11.0.2/lib --add-modules javafx.controls
 ```
 
 JavaFX SDK: https://gluonhq.com/products/javafx/
+
+Для автонастройки проекта на библиотеки JavaFX можно использовать плагин JavaFX Helper:
+
+![screenshot](screenshot5.png)
+
+![screenshot](screenshot6.png)
