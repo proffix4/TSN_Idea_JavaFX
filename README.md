@@ -13,6 +13,8 @@ java -jar --module-path /opt/javafx-sdk-11.0.2/lib --add-modules javafx.controls
 
 ![screenshot](screenshot3-2.png)
 
+![screenshot](screenshot3-3.png)
+
 ![screenshot](screenshot4.png)
 
 ```
