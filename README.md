@@ -3,10 +3,6 @@
 
 ![screenshot](screenshot1.png)
 
-```
-java -jar --module-path /opt/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml ./out/artifacts/JavaFxApplication_jar/JavaFxApplication.jar
-```
-
 ![screenshot](screenshot2.png)
 
 ![screenshot](screenshot3-1.png)
@@ -14,6 +10,11 @@ java -jar --module-path /opt/javafx-sdk-11.0.2/lib --add-modules javafx.controls
 ![screenshot](screenshot3-2.png)
 
 ![screenshot](screenshot3-3.png)
+
+
+```
+java -jar --module-path /opt/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml ./out/artifacts/JavaFxApplication_jar/JavaFxApplication.jar
+```
 
 ![screenshot](screenshot4.png)
 
