@@ -1,1 +1,1 @@
-java -jar --module-path /opt/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml ./out/artifacts/JavaFxApplication_jar/JavaFxApplication.jar 
+java -jar --module-path /snap/openjfx/current/sdk/lib --add-modules javafx.controls,javafx.fxml -Djava.library.path=/snap/openjfx/current/sdk/lib ./out/artifacts/JavaFxApplication_jar/JavaFxApplication.jar 

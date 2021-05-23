@@ -7,12 +7,18 @@
       <root url="file:///opt/javafx-sdk-11.0.2/lib" />
       <root url="file:///opt/javafx-sdk-11.0.2/lib" />
       <root url="file:///opt/javafx-sdk-11.0.2/lib" />
+      <root url="file:///snap/openjfx/current/sdk/lib" />
+      <root url="file:///snap/openjfx/current/sdk/lib" />
+      <root url="file:///snap/openjfx/current/sdk/lib" />
+      <root url="file:///snap/openjfx/current/sdk/lib" />
     </CLASSES>
     <JAVADOC />
     <NATIVE>
       <root url="file:///opt/javafx-sdk-11.0.2/lib" />
       <root url="file:///opt/javafx-sdk-11.0.2/lib" />
       <root url="file:///opt/javafx-sdk-11.0.2/lib" />
+      <root url="file:///snap/openjfx/current/sdk/lib" />
+      <root url="file:///snap/openjfx/current/sdk/lib" />
     </NATIVE>
     <SOURCES>
       <root url="file:///opt/javafx-sdk-11.0.2/lib" />
@@ -21,16 +27,28 @@
       <root url="file:///opt/javafx-sdk-11.0.2/lib" />
       <root url="file:///opt/javafx-sdk-11.0.2/lib" />
       <root url="file:///opt/javafx-sdk-11.0.2/lib" />
+      <root url="file:///snap/openjfx/current/sdk/lib" />
+      <root url="file:///snap/openjfx/current/sdk/lib" />
+      <root url="file:///snap/openjfx/current/sdk/lib" />
+      <root url="file:///snap/openjfx/current/sdk/lib" />
     </SOURCES>
     <jarDirectory url="file:///opt/javafx-sdk-11.0.2/lib" recursive="false" />
     <jarDirectory url="file:///opt/javafx-sdk-11.0.2/lib" recursive="false" />
     <jarDirectory url="file:///opt/javafx-sdk-11.0.2/lib" recursive="false" />
     <jarDirectory url="file:///opt/javafx-sdk-11.0.2/lib" recursive="false" />
     <jarDirectory url="file:///opt/javafx-sdk-11.0.2/lib" recursive="false" />
+    <jarDirectory url="file:///opt/javafx-sdk-11.0.2/lib" recursive="false" />
+    <jarDirectory url="file:///snap/openjfx/current/sdk/lib" recursive="false" />
+    <jarDirectory url="file:///snap/openjfx/current/sdk/lib" recursive="false" />
+    <jarDirectory url="file:///snap/openjfx/current/sdk/lib" recursive="false" />
     <jarDirectory url="file:///opt/javafx-sdk-11.0.2/lib" recursive="false" type="SOURCES" />
     <jarDirectory url="file:///opt/javafx-sdk-11.0.2/lib" recursive="false" type="SOURCES" />
     <jarDirectory url="file:///opt/javafx-sdk-11.0.2/lib" recursive="false" type="SOURCES" />
     <jarDirectory url="file:///opt/javafx-sdk-11.0.2/lib" recursive="false" type="SOURCES" />
     <jarDirectory url="file:///opt/javafx-sdk-11.0.2/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file:///opt/javafx-sdk-11.0.2/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file:///snap/openjfx/current/sdk/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file:///snap/openjfx/current/sdk/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file:///snap/openjfx/current/sdk/lib" recursive="false" type="SOURCES" />
   </library>
 </component>
